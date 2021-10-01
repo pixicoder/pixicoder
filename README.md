@@ -1,1 +1,1 @@
-Hi! This is the official account for some open source projects from [WarmPlace.ru](http://warmplace.ru)
+This is the official account for open source projects from [WarmPlace.ru](http://warmplace.ru)
